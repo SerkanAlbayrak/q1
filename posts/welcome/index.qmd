@@ -3,9 +3,11 @@ title: "Welcome To My Blog"
 author: "Tristan O'Malley"
 date: "10/04/2022"
 categories: [news]
+execute: 
+  freeze: false
 ---
 
-This is the first post in a Quarto blog. Welcome! werwer
+This is the first post in a Quarto blog. Welcome! werwer    qw    qwqw
 
 ![](thumbnail.jpg)
 
