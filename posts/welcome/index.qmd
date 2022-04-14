@@ -7,7 +7,7 @@ execute:
   freeze: false
 ---
 
-This is the first post in a Quarto blog. Welcome! werwer    qw    qwqw
+This is the first post in a Quarto blog. Welcome! 
 
 ![](thumbnail.jpg)
 
